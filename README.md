@@ -5,7 +5,6 @@ Unlocking insights through data analytics: SQL + Power BI synergy for impactful 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pizza Sales Data Analysis Project</title>
 </head>
 <body>
 
@@ -24,15 +23,36 @@ Unlocking insights through data analytics: SQL + Power BI synergy for impactful 
   </ul>
 
   <h2>Charts Requirements</h2>
-  <ul>
-    <li>Daily Trend for Total Orders: Bar chart showing the daily trend of total orders over a specific time period.</li>
-    <li>Monthly Trend for Total Orders: Line chart illustrating the hourly trend of total orders throughout the day.</li>
-    <li>Percentage of Sales by Pizza Category: Pie chart displaying the distribution of sales across different pizza categories.</li>
-    <li>Percentage of Sales by Pizza Size: Pie chart representing the percentage of sales attributed to different pizza sizes.</li>
-    <li>Total Pizzas Sold by Pizza Category: Funnel chart presenting the total number of pizzas sold for each pizza category.</li>
-    <li>Top 5 Best Sellers: Bar chart highlighting the top 5 best-selling pizzas based on revenue, total quantity, and total orders.</li>
-    <li>Bottom 5 Best Sellers: Bar chart showcasing the bottom 5 worst-selling pizzas based on revenue, total quantity, and total orders.</li>
-  </ul>
+  <ol>
+    <li>
+      <strong>Daily Trend for Total Orders:</strong> 
+      <p>Bar chart showing the daily trend of total orders over a specific time period.</p>
+    </li>
+    <li>
+      <strong>Monthly Trend for Total Orders:</strong> 
+      <p>Line chart illustrating the hourly trend of total orders throughout the day.</p>
+    </li>
+    <li>
+      <strong>Percentage of Sales by Pizza Category:</strong> 
+      <p>Pie chart displaying the distribution of sales across different pizza categories.</p>
+    </li>
+    <li>
+      <strong>Percentage of Sales by Pizza Size:</strong> 
+      <p>Pie chart representing the percentage of sales attributed to different pizza sizes.</p>
+    </li>
+    <li>
+      <strong>Total Pizzas Sold by Pizza Category:</strong> 
+      <p>Funnel chart presenting the total number of pizzas sold for each pizza category.</p>
+    </li>
+    <li>
+      <strong>Top 5 Best Sellers:</strong> 
+      <p>Bar chart highlighting the top 5 best-selling pizzas based on revenue, total quantity, and total orders.</p>
+    </li>
+    <li>
+      <strong>Bottom 5 Best Sellers:</strong> 
+      <p>Bar chart showcasing the bottom 5 worst-selling pizzas based on revenue, total quantity, and total orders.</p>
+    </li>
+  </ol>
 
   <h2>Software Used</h2>
   <ul>
@@ -77,6 +97,7 @@ Unlocking insights through data analytics: SQL + Power BI synergy for impactful 
 
 </body>
 </html>
+
 
 
 
